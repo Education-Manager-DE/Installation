@@ -4,3 +4,4 @@ This is a Installation Script to install the Education-Manager-DE on a Linux Ser
 1. `git clone https://github.com/Education-Manager-DE/Installation.git`
 2. `sudo run setup.sh`
 3. `sudo run phpmyadmin.sh`
+4. `git clone https://github.com/Education-Manager-DE/Education-Manager.git`
